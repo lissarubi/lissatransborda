@@ -8,7 +8,7 @@ Sou cofundadora da [Caverna do Patocórnio](https://caverna.live/), uma comunida
 
 Também sou cofundadora da [Kotlinautas](https://linktr.ee/kotlinautas), uma comunidade que busca produzir e divulgar conteúdo sobre a linguagem Kotlin na língua portuguesa.
 
-Por último, sou coordenadora na [Feministech](https://feministech.github.io/), um grupo de pessoas que se identificam no feminino e não binárias que compartilham conhecimento sobre tecnologia.
+Por último, sou Community Manager na [Feministech](https://feministech.github.io/), um grupo de pessoas que se identificam no feminino e não binárias que compartilham conhecimento sobre tecnologia.
 
 ## 🔗 Minhas Redes
 
