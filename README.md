@@ -17,4 +17,9 @@ Por último, sou Community Manager na [Feministech](https://feministech.github.i
 <a href="https://dev.to/lissadev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></img></a>
 <a href="https://www.linkedin.com/in/lissadev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 
+## 📰 Meus últimos artigos
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ![barra vermelha](assets/vermelho.png)
