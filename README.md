@@ -20,11 +20,11 @@ Por último, sou Community Manager na [Feministech](https://feministech.github.i
 ## 📰 Meus últimos artigos
 
 <!-- BLOG-POST-LIST:START -->
+- [Como começar a palestrar?](https://dev.to/feministech/como-comecar-a-palestrar-2acf)
 - [Teoria das Cores para Frontend](https://dev.to/feministech/teoria-das-cores-para-frontend-4emi)
 - [O que é Canva?](https://dev.to/feministech/o-que-e-canva-2oo2)
 - [Quem é Gi?](https://dev.to/feministech/quem-e-gi-2hbk)
 - [Organize a sua vida com Google Keep](https://dev.to/feministech/organize-a-sua-vida-com-google-keep-10a5)
-- [Quem é Leona?](https://dev.to/feministech/quem-e-leona-1hn6)
 <!-- BLOG-POST-LIST:END -->
 
 ![barra vermelha](assets/vermelho.png)
