@@ -20,11 +20,11 @@ Por último, sou Community Manager na [Feministech](https://feministech.github.i
 ## 📰 Meus últimos artigos
 
 <!-- BLOG-POST-LIST:START -->
+- [Como brochês de pronomes podem ajudar seu evento](https://dev.to/feministech/como-broches-de-pronomes-podem-ajudar-seu-evento-3h31)
 - [Como começar a palestrar?](https://dev.to/feministech/como-comecar-a-palestrar-2acf)
 - [Teoria das Cores para Frontend](https://dev.to/feministech/teoria-das-cores-para-frontend-4emi)
 - [O que é Canva?](https://dev.to/feministech/o-que-e-canva-2oo2)
 - [Quem é Gi?](https://dev.to/feministech/quem-e-gi-2hbk)
-- [Organize a sua vida com Google Keep](https://dev.to/feministech/organize-a-sua-vida-com-google-keep-10a5)
 <!-- BLOG-POST-LIST:END -->
 
 ![barra vermelha](assets/vermelho.png)
