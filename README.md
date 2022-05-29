@@ -20,11 +20,11 @@ Por último, sou Community Manager na [Feministech](https://feministech.github.i
 ## 📰 Meus últimos artigos
 
 <!-- BLOG-POST-LIST:START -->
+- [O melhor gerenciador de pacotes para Arch Linux](https://dev.to/feministech/o-melhor-gerenciador-de-pacotes-para-arch-linux-4llf)
 - [Porque você deve usar o Dev.to](https://dev.to/feministech/porque-voce-deve-usar-o-devto-5669)
 - [Quem é Mandys?](https://dev.to/feministech/quem-e-mandys-3ai9)
 - [Como brochês de pronomes podem ajudar seu evento](https://dev.to/feministech/como-broches-de-pronomes-podem-ajudar-seu-evento-3h31)
 - [Como começar a palestrar?](https://dev.to/feministech/como-comecar-a-palestrar-2acf)
-- [Teoria das Cores para Frontend](https://dev.to/feministech/teoria-das-cores-para-frontend-4emi)
 <!-- BLOG-POST-LIST:END -->
 
 ![barra vermelha](assets/vermelho.png)
