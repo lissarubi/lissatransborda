@@ -20,11 +20,11 @@ Por último, sou Community Manager na [Feministech](https://feministech.github.i
 ## 📰 Meus últimos artigos
 
 <!-- BLOG-POST-LIST:START -->
+- [Quem é Patrícia Villela](https://dev.to/feministech/quem-e-patricia-villela-2j1)
 - [Como criei o site da Feministech com VueJS](https://dev.to/feministech/como-criei-o-site-da-feministech-com-vuejs-4cc1)
 - [O que eu aprendi escrevendo 50 artigos](https://dev.to/feministech/o-que-eu-aprendi-escrevendo-50-artigos-3dna)
 - [Quem é Samantha?](https://dev.to/feministech/quem-e-samantha-3ig0)
 - [O melhor gerenciador de pacotes para Arch Linux](https://dev.to/feministech/o-melhor-gerenciador-de-pacotes-para-arch-linux-4llf)
-- [Porque você deve usar o Dev.to](https://dev.to/feministech/porque-voce-deve-usar-o-devto-5669)
 <!-- BLOG-POST-LIST:END -->
 
 ![barra vermelha](assets/vermelho.png)
