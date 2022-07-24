@@ -20,11 +20,11 @@ Por último, sou Community Manager na [Feministech](https://feministech.github.i
 ## 📰 Meus últimos artigos
 
 <!-- BLOG-POST-LIST:START -->
+- [Qual é a diferença entre programação orientada a objetos e funcional?](https://dev.to/feministech/qual-e-a-diferenca-entre-programacao-orientada-a-objetos-e-funcional-347e)
 - [Golang e Rust: Qual é melhor?](https://dev.to/feministech/golang-e-rust-qual-e-melhor-4559)
 - [Imagens em posts de redes sociais](https://dev.to/feministech/imagens-em-posts-de-redes-sociais-32eg)
 - [Quem é Patrícia Villela?](https://dev.to/feministech/quem-e-patricia-villela-2j1)
 - [Como criei o site da Feministech com VueJS](https://dev.to/feministech/como-criei-o-site-da-feministech-com-vuejs-4cc1)
-- [O que eu aprendi escrevendo 50 artigos](https://dev.to/feministech/o-que-eu-aprendi-escrevendo-50-artigos-3dna)
 <!-- BLOG-POST-LIST:END -->
 
 ![barra vermelha](assets/vermelho.png)
