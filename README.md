@@ -2,13 +2,14 @@
 
 Olá!
 
-Eu me chamo Lissa Ferreira, sou produtora de conteúdo sobre tecnologia e desenvolvedora.
+Eu me chamo Lissa Ferreira, sou:
 
-Sou cofundadora da [Caverna do Patocórnio](https://caverna.live/), uma comunidade de pessoas desenvolvedoras de diferentes tipos, criando conteúdo e interagindo entre si.
+- Produtora de conteúdo sobre tecnologia
+- Desenvolvedora
+- Community Manager na [Feministech](https://feministech.github.io/), um grupo de pessoas que se identificam no feminino e não binárias que compartilham conhecimento sobre tecnologia.
+- Cofundadora da [Kotlinautas](https://linktr.ee/kotlinautas), uma comunidade que busca produzir e divulgar conteúdo sobre a linguagem Kotlin na língua portuguesa.
+- Moderadora na mentoria de Devrel [Abacatinhos.dev](https://abacatinhos.dev/)
 
-Também sou cofundadora da [Kotlinautas](https://linktr.ee/kotlinautas), uma comunidade que busca produzir e divulgar conteúdo sobre a linguagem Kotlin na língua portuguesa.
-
-Por último, sou Community Manager na [Feministech](https://feministech.github.io/), um grupo de pessoas que se identificam no feminino e não binárias que compartilham conhecimento sobre tecnologia.
 
 ## 🔗 Minhas Redes
 
@@ -26,5 +27,3 @@ Por último, sou Community Manager na [Feministech](https://feministech.github.i
 - [Quem é Patrícia Villela?](https://dev.to/feministech/quem-e-patricia-villela-2j1)
 - [Como criei o site da Feministech com VueJS](https://dev.to/feministech/como-criei-o-site-da-feministech-com-vuejs-4cc1)
 <!-- BLOG-POST-LIST:END -->
-
-![barra vermelha](assets/vermelho.png)
