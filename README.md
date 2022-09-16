@@ -21,9 +21,9 @@ Eu me chamo Lissa Ferreira, sou:
 ## 📰 Meus últimos artigos
 
 <!-- BLOG-POST-LIST:START -->
+- [Persona para produtoras de conteúdo](https://dev.to/feministech/persona-para-produtoras-de-conteudo-n23)
 - [Minha experiência no primeiro evento presencial da Feministech](https://dev.to/feministech/minha-experiencia-no-primeiro-evento-presencial-da-feministech-22n3)
 - [Como produzir eventos remotos](https://dev.to/feministech/como-produzir-eventos-remotos-c3a)
 - [LunarVim para iniciantes](https://dev.to/feministech/lunarvim-para-iniciantes-5829)
 - [Qual é a diferença entre programação orientada a objetos e funcional?](https://dev.to/feministech/qual-e-a-diferenca-entre-programacao-orientada-a-objetos-e-funcional-347e)
-- [Golang e Rust: Qual é melhor?](https://dev.to/feministech/golang-e-rust-qual-e-melhor-4559)
 <!-- BLOG-POST-LIST:END -->
