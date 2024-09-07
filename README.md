@@ -21,9 +21,9 @@ Eu me chamo Lissa Ferreira, sou:
 ## 📰 Meus últimos artigos
 
 <!-- BLOG-POST-LIST:START -->
+- [Meu caminho na tecnologia: Alguns aprendizados que posso compartilhar.](https://dev.to/feministech/meu-caminho-na-tecnologia-alguns-aprendizados-que-posso-compartilhar-4gin)
 - [TRANSquimia: somos maiores que estrelas](https://dev.to/feministech/transquimia-somos-maiores-que-estrelas-1068)
 - [Polywork: O melhor currículo que você ainda não tem](https://dev.to/feministech/polywork-o-melhor-curriculo-que-voce-ainda-nao-tem-293b)
 - [Persona para produtoras de conteúdo](https://dev.to/feministech/persona-para-produtoras-de-conteudo-n23)
 - [Minha experiência no primeiro evento presencial da Feministech](https://dev.to/feministech/minha-experiencia-no-primeiro-evento-presencial-da-feministech-22n3)
-- [Como produzir eventos remotos](https://dev.to/feministech/como-produzir-eventos-remotos-c3a)
 <!-- BLOG-POST-LIST:END -->
